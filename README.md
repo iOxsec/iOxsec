@@ -31,9 +31,8 @@
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40mrmaurya05-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mrmaurya05)
+[![Twitter](https://img.shields.io/badge/Twitter-%40iOxsec-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iOxsec)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak_Maurya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-maurya)
-[![Ecliar](https://img.shields.io/badge/Ecliar-ecliars__op-FF4444?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNHYtNGwtNCAyIDQtOHY0bDQtMi00IDh6Ii8+PC9zdmc+)](https://ecliar.com)
 [![GitHub](https://img.shields.io/badge/GitHub-iOxsec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iOxsec)
 
 </div>
