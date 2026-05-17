@@ -7,6 +7,8 @@
 ██║  ██║██╔══╝  ██╔══╝  ██╔═══╝ ██╔══██║██╔═██╗ 
 ██████╔╝███████╗███████╗██║     ██║  ██║██║  ██╗
 ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝
+
+
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Web+%7C+Mobile+%7C+API+Penetration+Tester;Bug+Bounty+Hunter+%7C+CVE+Researcher;CWSE+%7C+CAPT+Certified;%5B%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%5D+HUNTING..." alt="Typing SVG" />
